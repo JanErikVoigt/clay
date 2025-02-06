@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="architecture.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1036342"
+     inkscape:cx="611.16266"
+     inkscape:cy="340.23956"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow5"
+       markerWidth="5.8874264"
+       markerHeight="6.6094756"
+       viewBox="0 0 5.8874262 6.6094758"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path8893" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e8bcb9;fill-opacity:1;stroke:#ae445a;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect234"
+       width="45.864967"
+       height="30.499123"
+       x="205.57274"
+       y="40.645317"
+       ry="1.6702529" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2889px;line-height:0.9;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#182739;stroke:#3d526a;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+       x="228.64995"
+       y="55.012028"
+       id="text290"><tspan
+         sodipodi:role="line"
+         id="tspan288"
+         style="font-size:11.2889px;fill:#432e54;fill-opacity:1;stroke:none;stroke-width:0.809"
+         x="228.64995"
+         y="55.012028">Clay</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:11.2889px;fill:#432e54;fill-opacity:1;stroke:none;stroke-width:0.809"
+         x="228.64995"
+         y="65.172043"
+         id="tspan7265">Server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="68.322876"
+       y="60.971664"
+       id="text3288"><tspan
+         sodipodi:role="line"
+         id="tspan3286"
+         style="font-size:6.35px;fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809"
+         x="68.322876"
+         y="60.971664">Keystroke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="67.098831"
+       y="77.378868"
+       id="text4222"><tspan
+         sodipodi:role="line"
+         id="tspan4220"
+         style="stroke-width:0.809"
+         x="67.098831"
+         y="77.378868">File</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:0.9;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;opacity:0.44393909"
+       x="69.080971"
+       y="33.177338"
+       id="text4226"><tspan
+         sodipodi:role="line"
+         id="tspan4224"
+         style="stroke-width:0.809"
+         x="69.080971"
+         y="33.177338">Cursor </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.809"
+         x="69.080971"
+         y="38.892338"
+         id="tspan4233">Position</tspan></text>
+    <g
+       id="g5393"
+       transform="translate(-9.7988895,-19.709475)"
+       style="opacity:0.44393909">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.35px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x="34.012814"
+         y="61.449711"
+         id="text4237"><tspan
+           sodipodi:role="line"
+           id="tspan4235"
+           style="fill:#4b4376;fill-opacity:1;stroke-width:0.809"
+           x="34.012814"
+           y="61.449711">IDE</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect5119"
+         width="20.114372"
+         height="8.0432005"
+         x="24.025639"
+         y="55.171417"
+         ry="1.6702529" />
+    </g>
+    <g
+       id="g5388"
+       transform="translate(-9.7988892,3.0421508)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect5383"
+         width="29.365131"
+         height="8.2687616"
+         x="19.488754"
+         y="54.963806"
+         ry="1.6702529" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.35px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x="33.996532"
+         y="61.102901"
+         id="text5397"><tspan
+           sodipodi:role="line"
+           id="tspan5395"
+           style="fill:#4b4376;fill-opacity:1;stroke-width:0.809"
+           x="33.996532"
+           y="61.102901">clayinp</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.35px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x="34.012814"
+         y="79.074791"
+         id="text5401"><tspan
+           sodipodi:role="line"
+           id="tspan5399"
+           style="fill:#4b4376;fill-opacity:1;stroke-width:0.809"
+           x="34.012814"
+           y="79.074791">OS</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect5403"
+         width="20.114372"
+         height="8.0432005"
+         x="24.025639"
+         y="72.796501"
+         ry="1.6702529" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="M 39.054997,62.140336 98.760591,61.621287"
+       id="path5463"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow);opacity:0.44393909"
+       d="m 34.341122,39.483542 c 43.469363,-0.797068 39.80822,4.686647 64.914849,16.098981"
+       id="path5465"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="M 34.341122,79.860249 C 75.7791,81.970075 72.515212,77.579679 98.914181,68.332306"
+       id="path5467"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="171.38315"
+       y="60.011002"
+       id="text6084"><tspan
+         sodipodi:role="line"
+         id="tspan6082"
+         style="fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809"
+         x="171.38315"
+         y="60.011002">Delta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:0.8;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="248.74951"
+       y="98.477409"
+       id="text7000"><tspan
+         sodipodi:role="line"
+         id="tspan6998"
+         style="fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809"
+         x="248.74951"
+         y="98.477409">Commit=</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809"
+         x="248.74951"
+         y="103.55741"
+         id="tspan7002">Delta group</tspan></text>
+    <g
+       id="g7065"
+       transform="translate(-0.74018163,-4.3521836)">
+      <rect
+         style="fill:#e8bcb9;fill-opacity:1;stroke:#ae445a;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect7059"
+         width="45.864971"
+         height="18.14743"
+         x="107.68893"
+         y="61.450436"
+         ry="1.6702529" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:11.2889px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#182739;stroke:#3d526a;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+         x="130.58669"
+         y="73.531631"
+         id="text7063"><tspan
+           sodipodi:role="line"
+           id="tspan7061"
+           style="font-size:11.2889px;fill:#432e54;fill-opacity:1;stroke:none;stroke-width:0.809"
+           x="130.58669"
+           y="73.531631">Change</tspan></text>
+    </g>
+    <g
+       id="g7057"
+       transform="translate(-2.7265196,-6.5249854)">
+      <rect
+         style="fill:#e8bcb9;fill-opacity:1;stroke:#ae445a;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect7051"
+         width="45.864971"
+         height="18.14743"
+         x="107.68893"
+         y="61.450436"
+         ry="1.6702529" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:11.2889px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#182739;stroke:#3d526a;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+         x="130.58669"
+         y="73.531631"
+         id="text7055"><tspan
+           sodipodi:role="line"
+           id="tspan7053"
+           style="font-size:11.2889px;fill:#432e54;fill-opacity:1;stroke:none;stroke-width:0.809"
+           x="130.58669"
+           y="73.531631">Change</tspan></text>
+    </g>
+    <g
+       id="g7049"
+       transform="translate(-4.6493941,-8.4534317)">
+      <rect
+         style="fill:#e8bcb9;fill-opacity:1;stroke:#ae445a;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="rect7043"
+         width="45.864971"
+         height="18.14743"
+         x="107.68893"
+         y="61.450436"
+         ry="1.6702529" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:11.2889px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:#182739;stroke:#3d526a;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+         x="130.58669"
+         y="73.531631"
+         id="text7047"><tspan
+           sodipodi:role="line"
+           id="tspan7045"
+           style="font-size:11.2889px;fill:#432e54;fill-opacity:1;stroke:none;stroke-width:0.809"
+           x="130.58669"
+           y="73.531631">Change</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow5)"
+       d="m 148.9045,62.070721 h 52.78676"
+       id="path6036" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="174.31013"
+       y="43.049942"
+       id="text7204"><tspan
+         sodipodi:role="line"
+         id="tspan7202"
+         style="fill:#ae445a;fill-opacity:1;stroke:none;stroke-width:0.809"
+         x="174.31013"
+         y="43.049942">DeltaGroup</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4b4376;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow5)"
+       d="m 148.9045,45.723477 h 52.78676"
+       id="path7206" />
+  </g>
+</svg>

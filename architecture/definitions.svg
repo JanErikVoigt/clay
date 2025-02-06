@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210.0mm"
+   height="297.0mm"
+   viewBox="0 0 210.0 297.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="definitions.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10239"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.1215488"
+     inkscape:cx="219.28217"
+     inkscape:cy="133.107"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="0" />
+  <defs
+     id="defs10234" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;opacity:0.443939;fill:#ae445a;fill-opacity:1;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+       x="41.471378"
+       y="22.663679"
+       id="text13110"><tspan
+         sodipodi:role="line"
+         id="tspan13108"
+         style="stroke-width:0.809"
+         x="41.471378"
+         y="22.663679">Delta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;opacity:0.443939;fill:#ae445a;fill-opacity:1;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+       x="35.184338"
+       y="28.851755"
+       id="text13114"><tspan
+         sodipodi:role="line"
+         id="tspan13112"
+         style="stroke-width:0.809"
+         x="35.184338"
+         y="28.851755">Delta Group</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;opacity:0.443939;fill:#ae445a;fill-opacity:1;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+       x="41.480061"
+       y="35.00906"
+       id="text13118"><tspan
+         sodipodi:role="line"
+         id="tspan13116"
+         style="stroke-width:0.809"
+         x="41.480061"
+         y="35.00906">Branch = label for change</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;opacity:0.443939;fill:#ae445a;fill-opacity:1;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+       x="41.449665"
+       y="41.25219"
+       id="text13122"><tspan
+         sodipodi:role="line"
+         id="tspan13120"
+         style="stroke-width:0.809"
+         x="41.449665"
+         y="41.25219">Change = delta+predecessor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;opacity:0.443939;fill:#ae445a;fill-opacity:1;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+       x="13.918271"
+       y="58.672966"
+       id="text13172"><tspan
+         sodipodi:role="line"
+         id="tspan13170"
+         style="stroke-width:0.809"
+         x="13.918271"
+         y="58.672966">push&amp;pull</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;opacity:0.443939;fill:#ae445a;fill-opacity:1;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+       x="48.478077"
+       y="53.87265"
+       id="text13176"><tspan
+         sodipodi:role="line"
+         id="tspan13174"
+         style="stroke-width:0.809"
+         x="48.478077"
+         y="53.87265">upstream/downstream</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Bold';text-align:center;text-anchor:middle;opacity:0.443939;fill:#ae445a;fill-opacity:1;stroke-width:0.809001;stroke-linecap:round;stroke-linejoin:round"
+       x="39.611713"
+       y="10.618105"
+       id="text13198"><tspan
+         sodipodi:role="line"
+         id="tspan13196"
+         style="stroke-width:0.809"
+         x="39.611713"
+         y="10.618105">Repo</tspan></text>
+  </g>
+</svg>
