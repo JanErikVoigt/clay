@@ -1,5 +1,6 @@
 use hotwatch::{Event, EventKind, Hotwatch};
 use std::env;
+mod diff;
 
 fn main() {
     let args: Vec<String> = env::args().collect();
