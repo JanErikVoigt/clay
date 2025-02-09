@@ -13,7 +13,7 @@ fn main() {
     let diff = diff::lines_diff::<usize>(lines1, lines2);
     for line in diff {
         println!(
-            "{} {}",
+            "{}│{}",
             match line.0 {
                 None => String::from(" "),
                 Some(o) => format!("{}", o),
