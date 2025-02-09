@@ -3,6 +3,21 @@ use std::env;
 mod diff;
 
 fn main() {
+    let lines1 = diff::read_lines("./test_data/sepvs/before/DecryptFiles.java");
+    let lines2 = diff::read_lines("./test_data/sepvs/after/DecryptFiles.java");
+
+    let diff = diff::lines_diff::<usize>(lines1, lines2);
+    for line in diff {
+        println!(
+            "{} {}",
+            match line.0 {
+                None => String::from(" "),
+                Some(o) => format!("{}", o),
+            },
+            line.1
+        );
+    }
+
     let args: Vec<String> = env::args().collect();
 
     let mut hotwatch = Hotwatch::new().expect("hotwatch failed to initialize!");
