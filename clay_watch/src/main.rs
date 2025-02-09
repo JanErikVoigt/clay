@@ -3,8 +3,12 @@ use std::env;
 mod diff;
 
 fn main() {
+    /*
     let lines1 = diff::read_lines("./test_data/sepvs/before/DecryptFiles.java");
     let lines2 = diff::read_lines("./test_data/sepvs/after/DecryptFiles.java");
+    */
+    let lines1 = diff::read_lines("./test_data/before/edit_multiple_lines.txt");
+    let lines2 = diff::read_lines("./test_data/after/edit_multiple_lines.txt");
 
     let diff = diff::lines_diff::<usize>(lines1, lines2);
     for line in diff {

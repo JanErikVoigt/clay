@@ -142,34 +142,40 @@ where
 
     // let mut seq1_i = 0;
     // let mut seq2_i = 0;
-    // //let mut comm_i = 0;
+    // // //let mut comm_i = 0;
 
-    // while !(seq1_i >= lines1_ids.len() && seq1_i >= lines1_ids.len()) { //&& comm_i >= lcssq.len()
-
+    // while seq1_i < lines1_ids.len() || seq1_i < lines1_ids.len() { //&& comm_i >= lcssq.len()
+    //     if ()
     // }
 
     let mut seq1_it = lines1_ids.iter().enumerate().peekable();
     let mut seq2_it = lines2_ids.iter().enumerate().peekable();
 
-    for common_element in lcssq.iter() {
-        let seq1_front = seq1_it.peek();
-        let seq2_front = seq2_it.peek();
-        if seq1_front.is_some() && seq1_is_common[seq1_front.unwrap().0] {
-            if seq2_front.is_some() && seq2_is_common[seq2_front.unwrap().0] {
+    loop {
+        //let seq1_front = seq1_it.peek();
+        //let seq2_front = seq2_it.peek().clone();
+
+        if seq1_it.peek().is_none() && seq2_it.peek().is_none() {
+            break;
+        }
+
+        if seq1_it.peek().is_some() && seq1_is_common[seq1_it.peek().unwrap().0] {
+            if seq2_it.peek().is_some() && seq2_is_common[seq2_it.peek().unwrap().0] {
                 //all equal!
                 //println!("all equal");
-                result_ints.push((None, *common_element));
+                result_ints.push((None, *seq1_it.peek().unwrap().1));
                 let _ = seq1_it.next();
                 let _ = seq2_it.next();
                 continue;
             }
         }
-        while seq1_it.peek().is_some() && *seq1_it.peek().unwrap() != common_element {
-            result_ints.push((Some(LineOperation::Remove), **seq1_it.peek().unwrap()));
+
+        while seq1_it.peek().is_some() && !seq1_is_common[seq1_it.peek().unwrap().0] {
+            result_ints.push((Some(LineOperation::Remove), *seq1_it.peek().unwrap().1));
             let _ = seq1_it.next();
         }
-        while seq2_it.peek().is_some() && *seq2_it.peek().unwrap() != common_element {
-            result_ints.push((Some(LineOperation::Add), **seq2_it.peek().unwrap()));
+        while seq2_it.peek().is_some() && !seq2_is_common[seq2_it.peek().unwrap().0] {
+            result_ints.push((Some(LineOperation::Add), *seq2_it.peek().unwrap().1));
             let _ = seq2_it.next();
         }
     }

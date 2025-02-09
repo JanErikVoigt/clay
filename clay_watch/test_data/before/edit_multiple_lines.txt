@@ -1,0 +1,9 @@
+import prefix
+import prefix2
+import prefix3
+
+if(a=1):
+    do b
+    c + 1
+
+return postfix 1
